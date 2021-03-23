@@ -5,9 +5,15 @@
     "passes": 24,
     "pending": 0,
     "failures": 0,
+<<<<<<< HEAD
     "start": "2021-03-20T14:55:36.812Z",
     "end": "2021-03-20T14:55:36.996Z",
     "duration": 184
+=======
+    "start": "2021-03-23T13:44:31.471Z",
+    "end": "2021-03-23T13:44:31.656Z",
+    "duration": 185
+>>>>>>> erik
   },
   "tests": [
     {
@@ -27,14 +33,22 @@
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
+<<<<<<< HEAD
       "duration": 3,
+=======
+      "duration": 5,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
+<<<<<<< HEAD
       "duration": 8,
+=======
+      "duration": 11,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -55,7 +69,11 @@
     {
       "title": "contains a <Route path=\"/actors\">",
       "fullTitle": "App contains a <Route path=\"/actors\">",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -97,7 +115,11 @@
     {
       "title": "should render the right content for each director",
       "fullTitle": "Directors should render the right content for each director",
+<<<<<<< HEAD
       "duration": 3,
+=======
+      "duration": 5,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -118,14 +140,22 @@
     {
       "title": "should render one <h1 /> first, inside of the <div />",
       "fullTitle": "Movies should render one <h1 /> first, inside of the <div />",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render 'Movies Page' inside of the <h1 />",
       "fullTitle": "Movies should render 'Movies Page' inside of the <h1 />",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -146,7 +176,11 @@
     {
       "title": "wraps content in a div with .navbar class",
       "fullTitle": "NavBar wraps content in a div with .navbar class",
+<<<<<<< HEAD
       "duration": 2,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -160,7 +194,11 @@
     {
       "title": "renders a Movies <NavLink>",
       "fullTitle": "NavBar navlinks renders a Movies <NavLink>",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -174,7 +212,11 @@
     {
       "title": "renders a Directors <NavLink>",
       "fullTitle": "NavBar navlinks renders a Directors <NavLink>",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     }
@@ -199,14 +241,22 @@
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
+<<<<<<< HEAD
       "duration": 3,
+=======
+      "duration": 5,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
+<<<<<<< HEAD
       "duration": 8,
+=======
+      "duration": 11,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -227,7 +277,11 @@
     {
       "title": "contains a <Route path=\"/actors\">",
       "fullTitle": "App contains a <Route path=\"/actors\">",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -269,7 +323,11 @@
     {
       "title": "should render the right content for each director",
       "fullTitle": "Directors should render the right content for each director",
+<<<<<<< HEAD
       "duration": 3,
+=======
+      "duration": 5,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -290,14 +348,22 @@
     {
       "title": "should render one <h1 /> first, inside of the <div />",
       "fullTitle": "Movies should render one <h1 /> first, inside of the <div />",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render 'Movies Page' inside of the <h1 />",
       "fullTitle": "Movies should render 'Movies Page' inside of the <h1 />",
+<<<<<<< HEAD
       "duration": 1,
+=======
+      "duration": 0,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -318,7 +384,11 @@
     {
       "title": "wraps content in a div with .navbar class",
       "fullTitle": "NavBar wraps content in a div with .navbar class",
+<<<<<<< HEAD
       "duration": 2,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -332,7 +402,11 @@
     {
       "title": "renders a Movies <NavLink>",
       "fullTitle": "NavBar navlinks renders a Movies <NavLink>",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     },
@@ -346,7 +420,11 @@
     {
       "title": "renders a Directors <NavLink>",
       "fullTitle": "NavBar navlinks renders a Directors <NavLink>",
+<<<<<<< HEAD
       "duration": 0,
+=======
+      "duration": 1,
+>>>>>>> erik
       "currentRetry": 0,
       "err": {}
     }
